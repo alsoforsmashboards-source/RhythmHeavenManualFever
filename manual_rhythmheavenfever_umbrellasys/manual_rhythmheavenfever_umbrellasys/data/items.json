@@ -442,6 +442,56 @@
   },
   {
     "count": 1,
+    "name": "Mr. Upbeat",
+    "category": [
+      "Endless",
+      "Songs",
+      "Start"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wake Up Caller",
+    "category": [
+      "Endless",
+      "Songs",
+      "Start"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Munchy Monk",
+    "category": [
+      "Endless",
+      "Songs",
+      "Start"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lady Cupid",
+    "category": [
+      "Endless",
+      "Songs",
+      "Start"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Endless Remix",
+    "category": [
+      "Endless",
+      "Songs",
+      "Start"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Game Pack 1 Key",
     "category": [
       "Keys",
@@ -526,6 +576,16 @@
     "name": "Game Pack 10 Key",
     "category": [
       "Keys",
+      "Start"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Endless Games Key",
+    "category": [
+      "Keys",
+      "Endless",
       "Start"
     ],
     "progression": true
