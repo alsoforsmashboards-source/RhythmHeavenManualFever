@@ -28,8 +28,8 @@
         },
         "individual_songs":{
             "description": [
-                "Instead of area keys, unlock songs individually",
-                ""
+                "If enabled, games will be unlocked individually",
+                "If disabled, you will obtain keys that unlock each column of games"
             ],
             "type": "Toggle",
             "default": true,
@@ -38,7 +38,7 @@
         "perfects":{
             "description": [
                 "Include completing songs perfectly as checks",
-                ""
+                "Adds 50 very difficult checks, only enable if confident"
             ],
             "type": "Toggle",
             "default": false,
@@ -51,7 +51,16 @@
         "blindfolded":{
             "description": [
                 "Include completing songs blindfolded as checks",
-                ""
+                "You must get an OK or better to send the check"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Options"
+        },
+        "endless":{
+            "description": [
+                "Adds in the endless games as locations",
+                "You must hit a minimum score for each game to send the check"
             ],
             "type": "Toggle",
             "default": false,
