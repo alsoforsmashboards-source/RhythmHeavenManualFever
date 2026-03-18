@@ -1,0 +1,2128 @@
+[
+  {
+    "category": [
+      "Remix 1",
+      "Superbs"
+    ],
+    "requires": "|Hole in One| OR |Game Pack 1 Key|",
+    "name": "Hole in One - Try Again...",
+    "region": "Remix 1"
+  },
+  {
+    "category": [
+      "Remix 1",
+      "Superbs"
+    ],
+    "requires": "|Hole in One| OR |Game Pack 1 Key|",
+    "name": "Hole in One - Just... OK",
+    "region": "Remix 1"
+  },
+  {
+    "category": [
+      "Remix 1",
+      "Superbs"
+    ],
+    "requires": "|Hole in One| OR |Game Pack 1 Key|",
+    "name": "Hole in One - Superb!",
+    "region": "Remix 1"
+  },
+  {
+    "name": "Hole in One - Perfect!",
+    "region": "Remix 1",
+    "category": [
+      "Remix 1",
+      "Perfects"
+    ],
+    "requires": "|Hole in One| OR |Game Pack 1 Key|"
+  },
+  {
+    "name": "Hole in One - Blindfolded",
+    "region": "Remix 1",
+    "category": [
+      "Remix 1",
+      "Blindfolded"
+    ],
+    "requires": "|Hole in One| OR |Game Pack 1 Key|"
+  },  {
+    "name": "Screwbot Factory - Try Again...",
+    "region": "Remix 1",
+    "category": [
+      "Remix 1",
+      "Superbs"
+    ],
+    "requires": "|Screwbot Factory| OR |Game Pack 1 Key|"
+  },
+  {
+    "name": "Screwbot Factory - Just... OK",
+    "region": "Remix 1",
+    "category": [
+      "Remix 1",
+      "Superbs"
+    ],
+    "requires": "|Screwbot Factory| OR |Game Pack 1 Key|"
+  },
+  {
+    "name": "Screwbot Factory - Superb!",
+    "region": "Remix 1",
+    "category": [
+      "Remix 1",
+      "Superbs"
+    ],
+    "requires": "|Screwbot Factory| OR |Game Pack 1 Key|"
+  },
+  {
+    "region": "Remix 1",
+    "name": "Screwbot Factory - Perfect!",
+    "category": [
+      "Remix 1",
+      "Perfects"
+    ],
+    "requires": "|Screwbot Factory| OR |Game Pack 1 Key|"
+  },
+  {
+    "region": "Remix 1",
+    "name": "Screwbot Factory - Blindfolded",
+    "category": [
+      "Remix 1",
+      "Blindfolded"
+    ],
+    "requires": "|Screwbot Factory| OR |Game Pack 1 Key|"
+  },
+  {
+    "name": "See-Saw - Try Again...",
+    "region": "Remix 1",
+    "category": [
+      "Remix 1",
+      "Superbs"
+    ],
+    "requires": "|See-Saw| OR |Game Pack 1 Key|"
+  },
+  {
+    "name": "See-Saw - Just... OK",
+    "region": "Remix 1",
+    "category": [
+      "Remix 1",
+      "Superbs"
+    ],
+    "requires": "|See-Saw| OR |Game Pack 1 Key|"
+  },
+  {
+    "name": "See-Saw - Superb!",
+    "region": "Remix 1",
+    "category": [
+      "Remix 1",
+      "Superbs"
+    ],
+    "requires": "|See-Saw| OR |Game Pack 1 Key|"
+  },
+  {
+    "name": "See-Saw - Perfect!",
+    "region": "Remix 1",
+    "category": [
+      "Remix 1",
+      "Perfects"
+    ],
+    "requires": "|See-Saw| OR |Game Pack 1 Key|"
+  },
+  {
+    "name": "See-Saw - Blindfolded",
+    "region": "Remix 1",
+    "category": [
+      "Remix 1",
+      "Blindfolded"
+    ],
+    "requires": "|See-Saw| OR |Game Pack 1 Key|"
+  },
+  {
+    "name": "Double Date - Try Again...",
+    "region": "Remix 1",
+    "category": [
+      "Remix 1",
+      "Superbs"
+    ],
+    "requires": "|Double Date| OR |Game Pack 1 Key|"
+  },
+  {
+    "name": "Double Date - Just... OK",
+    "region": "Remix 1",
+    "category": [
+      "Remix 1",
+      "Superbs"
+    ],
+    "requires": "|Double Date| OR |Game Pack 1 Key|"
+  },
+  {
+    "name": "Double Date - Superb!",
+    "region": "Remix 1",
+    "category": [
+      "Remix 1",
+      "Superbs"
+    ],
+    "requires": "|Double Date| OR |Game Pack 1 Key|"
+  },
+  {
+    "region": "Remix 1",
+    "name": "Double Date - Perfect!",
+    "category": [
+      "Remix 1",
+      "Perfects"
+    ],
+    "requires": "|Double Date| OR |Game Pack 1 Key|"
+  },
+  {
+    "region": "Remix 1",
+    "name": "Double Date - Blindfolded",
+    "category": [
+      "Remix 1",
+      "Blindfolded"
+    ],
+    "requires": "|Double Date| OR |Game Pack 1 Key|"
+  },
+  {
+    "name": "Remix 1 - Try Again...",
+    "region": "Remix 1",
+    "category": [
+      "Remix 1",
+      "Superbs"
+    ],
+    "requires": "|Remix 1| OR |Game Pack 1 Key|"
+  },
+  {
+    "name": "Remix 1 - Just... OK",
+    "region": "Remix 1",
+    "category": [
+      "Remix 1",
+      "Superbs"
+    ],
+    "requires": "|Remix 1| OR |Game Pack 1 Key|"
+  },
+  {
+    "name": "Remix 1 - Superb!",
+    "region": "Remix 1",
+    "category": [
+      "Remix 1",
+      "Superbs"
+    ],
+    "requires": "|Remix 1| OR |Game Pack 1 Key|"
+  },
+  {
+    "name": "Remix 1 - Perfect!",
+    "region": "Remix 1",
+    "category": [
+      "Remix 1",
+      "Perfects"
+    ],
+    "requires": "|Remix 1| OR |Game Pack 1 Key|"
+  },
+  {
+    "name": "Remix 1 - Blindfolded",
+    "region": "Remix 1",
+    "category": [
+      "Remix 1",
+      "Blindfolded"
+    ],
+    "requires": "|Remix 1| OR |Game Pack 1 Key|"
+  },
+  {
+    "name": "Fork Lifter - Try Again...",
+    "region": "Remix 2",
+    "category": [
+      "Remix 2",
+      "Superbs"
+    ],
+    "requires": "|Fork Lifter| OR |Game Pack 2 Key|"
+  },
+  {
+    "name": "Fork Lifter - Just... OK",
+    "region": "Remix 2",
+    "category": [
+      "Remix 2",
+      "Superbs"
+    ],
+    "requires": "|Fork Lifter| OR |Game Pack 2 Key|"
+  },
+  {
+    "name": "Fork Lifter - Superb!",
+    "region": "Remix 2",
+    "category": [
+      "Remix 2",
+      "Superbs"
+    ],
+    "requires": "|Fork Lifter| OR |Game Pack 2 Key|"
+  },
+  {
+    "name": "Fork Lifter - Perfect!",
+    "region": "Remix 2",
+    "category": [
+      "Remix 2",
+      "Perfects"
+    ],
+    "requires": "|Fork Lifter| OR |Game Pack 2 Key|"
+  },
+  {
+    "name": "Fork Lifter - Blindfolded",
+    "region": "Remix 2",
+    "category": [
+      "Remix 2",
+      "Blindfolded"
+    ],
+    "requires": "|Fork Lifter| OR |Game Pack 2 Key|"
+  },
+  {
+    "name": "Tambourine - Try Again...",
+    "region": "Remix 2",
+    "category": [
+      "Remix 2",
+      "Superbs"
+    ],
+    "requires": "|Tambourine| OR |Game Pack 2 Key|"
+  },
+  {
+    "name": "Tambourine - Just... OK",
+    "region": "Remix 2",
+    "category": [
+      "Remix 2",
+      "Superbs"
+    ],
+    "requires": "|Tambourine| OR |Game Pack 2 Key|"
+  },
+  {
+    "name": "Tambourine - Superb!",
+    "region": "Remix 2",
+    "category": [
+      "Remix 2",
+      "Superbs"
+    ],
+    "requires": "|Tambourine| OR |Game Pack 2 Key|"
+  },
+  {
+    "region": "Remix 2",
+    "name": "Tambourine - Perfect!",
+    "category": [
+      "Remix 2",
+      "Perfects"
+    ],
+    "requires": "|Tambourine| OR |Game Pack 2 Key|"
+  },
+  {
+    "region": "Remix 2",
+    "name": "Tambourine - Blindfolded",
+    "category": [
+      "Remix 2",
+      "Blindfolded"
+    ],
+    "requires": "|Tambourine| OR |Game Pack 2 Key|"
+  },
+  {
+    "region": "Remix 2",
+    "name": "Board Meeting - Try Again...",
+    "category": [
+      "Remix 2",
+      "Superbs"
+    ],
+    "requires": "|Board Meeting| OR |Game Pack 2 Key|"
+  },
+  {
+    "region": "Remix 2",
+    "name": "Board Meeting - Just... OK",
+    "category": [
+      "Remix 2",
+      "Superbs"
+    ],
+    "requires": "|Board Meeting| OR |Game Pack 2 Key|"
+  },
+  {
+    "region": "Remix 2",
+    "name": "Board Meeting - Superb!",
+    "category": [
+      "Remix 2",
+      "Superbs"
+    ],
+    "requires": "|Board Meeting| OR |Game Pack 2 Key|"
+  },
+  {
+    "region": "Remix 2",
+    "name": "Board Meeting - Perfect!",
+    "category": [
+      "Remix 2",
+      "Perfects"
+    ],
+    "requires": "|Board Meeting| OR |Game Pack 2 Key|"
+  },
+  {
+    "region": "Remix 2",
+    "name": "Board Meeting - Blindfolded",
+    "category": [
+      "Remix 2",
+      "Blindfolded"
+    ],
+    "requires": "|Board Meeting| OR |Game Pack 2 Key|"
+  },
+  {
+    "name": "Monkey Watch - Try Again...",
+    "region": "Remix 2",
+    "category": [
+      "Remix 2",
+      "Superbs"
+    ],
+    "requires": "|Monkey Watch| OR |Game Pack 2 Key|"
+  },
+  {
+    "name": "Monkey Watch - Just... OK",
+    "region": "Remix 2",
+    "category": [
+      "Remix 2",
+      "Superbs"
+    ],
+    "requires": "|Monkey Watch| OR |Game Pack 2 Key|"
+  },
+  {
+    "name": "Monkey Watch - Superb!",
+    "region": "Remix 2",
+    "category": [
+      "Remix 2",
+      "Superbs"
+    ],
+    "requires": "|Monkey Watch| OR |Game Pack 2 Key|"
+  },
+  {
+    "region": "Remix 2",
+    "name": "Monkey Watch - Perfect!",
+    "category": [
+      "Remix 2",
+      "Perfects"
+    ],
+    "requires": "|Monkey Watch| OR |Game Pack 2 Key|"
+  },
+  {
+    "region": "Remix 2",
+    "name": "Monkey Watch - Blindfolded",
+    "category": [
+      "Remix 2",
+      "Blindfolded"
+    ],
+    "requires": "|Monkey Watch| OR |Game Pack 2 Key|"
+  },
+  {
+    "name": "Remix 2 - Try Again...",
+    "region": "Remix 2",
+    "category": [
+      "Remix 2",
+      "Superbs"
+    ],
+    "requires": "|Remix 2| OR |Game Pack 2 Key|"
+  },
+  {
+    "name": "Remix 2 - Just... OK",
+    "region": "Remix 2",
+    "category": [
+      "Remix 2",
+      "Superbs"
+    ],
+    "requires": "|Remix 2| OR |Game Pack 2 Key|"
+  },
+  {
+    "name": "Remix 2 - Superb!",
+    "region": "Remix 2",
+    "category": [
+      "Remix 2",
+      "Superbs"
+    ],
+    "requires": "|Remix 2| OR |Game Pack 2 Key|"
+  },
+  {
+    "region": "Remix 2",
+    "name": "Remix 2 - Perfect!",
+    "category": [
+      "Remix 2",
+      "Perfects"
+    ],
+    "requires": "|Remix 2| OR |Game Pack 2 Key|"
+  },
+  {
+    "region": "Remix 2",
+    "name": "Remix 2 - Blindfolded",
+    "category": [
+      "Remix 2",
+      "Blindfolded"
+    ],
+    "requires": "|Remix 2| OR |Game Pack 2 Key|"
+  },
+  {
+    "name": "Working Dough - Try Again...",
+    "region": "Remix 3",
+    "category": [
+      "Remix 3",
+      "Superbs"
+    ],
+    "requires": "|Working Dough| OR |Game Pack 3 Key|"
+  },
+  {
+    "name": "Working Dough - Just... OK",
+    "region": "Remix 3",
+    "category": [
+      "Remix 3",
+      "Superbs"
+    ],
+    "requires": "|Working Dough| OR |Game Pack 3 Key|"
+  },
+  {
+    "name": "Working Dough - Superb!",
+    "region": "Remix 3",
+    "category": [
+      "Remix 3",
+      "Superbs"
+    ],
+    "requires": "|Working Dough| OR |Game Pack 3 Key|"
+  },
+  {
+    "region": "Remix 3",
+    "name": "Working Dough - Perfect!",
+    "category": [
+      "Remix 3",
+      "Perfects"
+    ],
+    "requires": "|Working Dough| OR |Game Pack 3 Key|"
+  },
+  {
+    "region": "Remix 3",
+    "name": "Working Dough - Blindfolded",
+    "category": [
+      "Remix 3",
+      "Blindfolded"
+    ],
+    "requires": "|Working Dough| OR |Game Pack 3 Key|"
+  },
+  {
+    "name": "Built to Scale - Try Again",
+    "region": "Remix 3",
+    "category": [
+      "Remix 3",
+      "Superbs"
+    ],
+    "requires": "|Built to Scale| OR |Game Pack 3 Key|"
+  },
+  {
+    "name": "Built to Scale - Just... OK",
+    "region": "Remix 3",
+    "category": [
+      "Remix 3",
+      "Superbs"
+    ],
+    "requires": "|Built to Scale| OR |Game Pack 3 Key|"
+  },
+  {
+    "name": "Built to Scale - Superb!",
+    "region": "Remix 3",
+    "category": [
+      "Remix 3",
+      "Superbs"
+    ],
+    "requires": "|Built to Scale| OR |Game Pack 3 Key|"
+  },
+  {
+    "region": "Remix 3",
+    "name": "Built to Scale - Perfect!",
+    "category": [
+      "Remix 3",
+      "Perfects"
+    ],
+    "requires": "|Built to Scale| OR |Game Pack 3 Key|"
+  },
+  {
+    "region": "Remix 3",
+    "name": "Built to Scale - Blindfolded",
+    "category": [
+      "Remix 3",
+      "Blindfolded"
+    ],
+    "requires": "|Built to Scale| OR |Game Pack 3 Key|"
+  },
+  {
+    "name": "Air Rally - Try Again...",
+    "region": "Remix 3",
+    "category": [
+      "Remix 3",
+      "Superbs"
+    ],
+    "requires": "|Air Rally| OR |Game Pack 3 Key|"
+  },
+  {
+    "name": "Air Rally - Just... OK",
+    "region": "Remix 3",
+    "category": [
+      "Remix 3",
+      "Superbs"
+    ],
+    "requires": "|Air Rally| OR |Game Pack 3 Key|"
+  },
+  {
+    "name": "Air Rally - Superb!",
+    "region": "Remix 3",
+    "category": [
+      "Remix 3",
+      "Superbs"
+    ],
+    "requires": "|Air Rally| OR |Game Pack 3 Key|"
+  },
+  {
+    "region": "Remix 3",
+    "name": "Air Rally - Perfect!",
+    "category": [
+      "Remix 3",
+      "Perfects"
+    ],
+    "requires": "|Air Rally| OR |Game Pack 3 Key|"
+  },
+  {
+    "region": "Remix 3",
+    "name": "Air Rally - Blindfolded",
+    "category": [
+      "Remix 3",
+      "Blindfolded"
+    ],
+    "requires": "|Air Rally| OR |Game Pack 3 Key|"
+  },
+  {
+    "name": "Figure Fighter - Try Again...",
+    "region": "Remix 3",
+    "category": [
+      "Remix 3",
+      "Superbs"
+    ],
+    "requires": "|Figure Fighter| OR |Game Pack 3 Key|"
+  },
+  {
+    "name": "Figure Fighter - Just... OK",
+    "region": "Remix 3",
+    "category": [
+      "Remix 3",
+      "Superbs"
+    ],
+    "requires": "|Figure Fighter| OR |Game Pack 3 Key|"
+  },
+  {
+    "name": "Figure Fighter - Superb!",
+    "region": "Remix 3",
+    "category": [
+      "Remix 3",
+      "Superbs"
+    ],
+    "requires": "|Figure Fighter| OR |Game Pack 3 Key|"
+  },
+  {
+    "name": "Figure Fighter - Perfect!",
+    "region": "Remix 3",
+    "category": [
+      "Remix 3",
+      "Perfects"
+    ],
+    "requires": "|Figure Fighter| OR |Game Pack 3 Key|"
+  },
+  {
+    "name": "Figure Fighter - Blindfolded",
+    "region": "Remix 3",
+    "category": [
+      "Remix 3",
+      "Blindfolded"
+    ],
+    "requires": "|Figure Fighter| OR |Game Pack 3 Key|"
+  },
+  {
+    "name": "Remix 3 - Try Again...",
+    "region": "Remix 3",
+    "category": [
+      "Remix 3",
+      "Superbs"
+    ],
+    "requires": "|Remix 3| OR |Game Pack 3 Key|"
+  },
+  {
+    "name": "Remix 3 - Just... OK",
+    "region": "Remix 3",
+    "category": [
+      "Remix 3",
+      "Superbs"
+    ],
+    "requires": "|Remix 3| OR |Game Pack 3 Key|"
+  },
+  {
+    "name": "Remix 3 - Superb!",
+    "region": "Remix 3",
+    "category": [
+      "Remix 3",
+      "Superbs"
+    ],
+    "requires": "|Remix 3| OR |Game Pack 3 Key|"
+  },
+  {
+    "name": "Remix 3 - Perfect!",
+    "region": "Remix 3",
+    "category": [
+      "Remix 3",
+      "Perfects"
+    ],
+    "requires": "|Remix 3| OR |Game Pack 3 Key|"
+  },
+  {
+    "name": "Remix 3 - Blindfolded",
+    "region": "Remix 3",
+    "category": [
+      "Remix 3",
+      "Blindfolded"
+    ],
+    "requires": "|Remix 3| OR |Game Pack 3 Key|"
+  },
+  {
+    "name": "Ringside - Try Again...",
+    "region": "Remix 4",
+    "category": [
+      "Remix 4",
+      "Superbs"
+    ],
+    "requires": "|Ringside| OR |Game Pack 4 Key|"
+  },
+  {
+    "name": "Ringside - Just... OK",
+    "region": "Remix 4",
+    "category": [
+      "Remix 4",
+      "Superbs"
+    ],
+    "requires": "|Ringside| OR |Game Pack 4 Key|"
+  },
+  {
+    "name": "Ringside - Superb!",
+    "region": "Remix 4",
+    "category": [
+      "Remix 4",
+      "Superbs"
+    ],
+    "requires": "|Ringside| OR |Game Pack 4 Key|"
+  },
+  {
+    "name": "Ringside - Perfect!",
+    "region": "Remix 4",
+    "category": [
+      "Remix 4",
+      "Perfects"
+    ],
+    "requires": "|Ringside| OR |Game Pack 4 Key|"
+  },
+  {
+    "name": "Ringside - Blindfolded",
+    "region": "Remix 4",
+    "category": [
+      "Remix 4",
+      "Blindfolded"
+    ],
+    "requires": "|Ringside| OR |Game Pack 4 Key|"
+  },
+  {
+    "name": "Packing Pests - Try Again...",
+    "region": "Remix 4",
+    "category": [
+      "Remix 4",
+      "Superbs"
+    ],
+    "requires": "|Packing Pests| OR |Game Pack 4 Key|"
+  },
+  {
+    "name": "Packing Pests - Just... OK",
+    "region": "Remix 4",
+    "category": [
+      "Remix 4",
+      "Superbs"
+    ],
+    "requires": "|Packing Pests| OR |Game Pack 4 Key|"
+  },
+  {
+    "name": "Packing Pests - Superb!",
+    "region": "Remix 4",
+    "category": [
+      "Remix 4",
+      "Superbs"
+    ],
+    "requires": "|Packing Pests| OR |Game Pack 4 Key|"
+  },
+  {
+    "region": "Remix 4",
+    "name": "Packing Pests - Perfect!",
+    "category": [
+      "Remix 4",
+      "Perfects"
+    ],
+    "requires": "|Packing Pests| OR |Game Pack 4 Key|"
+  },
+  {
+    "region": "Remix 4",
+    "name": "Packing Pests - Blindfolded",
+    "category": [
+      "Remix 4",
+      "Blindfolded"
+    ],
+    "requires": "|Packing Pests| OR |Game Pack 4 Key|"
+  },
+  {
+    "region": "Remix 4",
+    "name": "Micro-Row - Try Again...",
+    "category": [
+      "Remix 4",
+      "Superbs"
+    ],
+    "requires": "|Micro-Row| OR |Game Pack 4 Key|"
+  },
+  {
+    "region": "Remix 4",
+    "name": "Micro-Row - Just... OK",
+    "category": [
+      "Remix 4",
+      "Superbs"
+    ],
+    "requires": "|Micro-Row| OR |Game Pack 4 Key|"
+  },
+  {
+    "region": "Remix 4",
+    "name": "Micro-Row - Superb!",
+    "category": [
+      "Remix 4",
+      "Superbs"
+    ],
+    "requires": "|Micro-Row| OR |Game Pack 4 Key|"
+  },
+  {
+    "region": "Remix 4",
+    "name": "Micro-Row - Perfect!",
+    "category": [
+      "Remix 4",
+      "Perfects"
+    ],
+    "requires": "|Micro-Row| OR |Game Pack 4 Key|"
+  },
+  {
+    "region": "Remix 4",
+    "name": "Micro-Row - Blindfolded",
+    "category": [
+      "Remix 4",
+      "Blindfolded"
+    ],
+    "requires": "|Micro-Row| OR |Game Pack 4 Key|"
+  },
+  {
+    "name": "Samurai Slice - Try Again...",
+    "region": "Remix 4",
+    "category": [
+      "Remix 4",
+      "Superbs"
+    ],
+    "requires": "|Samurai Slice| OR |Game Pack 4 Key|"
+  },
+  {
+    "name": "Samurai Slice - Just... OK",
+    "region": "Remix 4",
+    "category": [
+      "Remix 4",
+      "Superbs"
+    ],
+    "requires": "|Samurai Slice| OR |Game Pack 4 Key|"
+  },
+  {
+    "name": "Samurai Slice - Superb!",
+    "region": "Remix 4",
+    "category": [
+      "Remix 4",
+      "Superbs"
+    ],
+    "requires": "|Samurai Slice| OR |Game Pack 4 Key|"
+  },
+  {
+    "region": "Remix 4",
+    "name": "Samurai Slice - Perfect!",
+    "category": [
+      "Remix 4",
+      "Perfects"
+    ],
+    "requires": "|Samurai Slice| OR |Game Pack 4 Key|"
+  },
+  {
+    "region": "Remix 4",
+    "name": "Samurai Slice - Blindfolded",
+    "category": [
+      "Remix 4",
+      "Blindfolded"
+    ],
+    "requires": "|Samurai Slice| OR |Game Pack 4 Key|"
+  },
+  {
+    "name": "Remix 4 - Try Again...",
+    "region": "Remix 4",
+    "category": [
+      "Remix 4",
+      "Superbs"
+    ],
+    "requires": "|Remix 4| OR |Game Pack 4 Key|"
+  },
+  {
+    "name": "Remix 4 - Just... OK",
+    "region": "Remix 4",
+    "category": [
+      "Remix 4",
+      "Superbs"
+    ],
+    "requires": "|Remix 4| OR |Game Pack 4 Key|"
+  },
+  {
+    "name": "Remix 4 - Superb!",
+    "region": "Remix 4",
+    "category": [
+      "Remix 4",
+      "Superbs"
+    ],
+    "requires": "|Remix 4| OR |Game Pack 4 Key|"
+  },
+  {
+    "name": "Remix 4 - Perfect!",
+    "region": "Remix 4",
+    "category": [
+      "Remix 4",
+      "Perfects"
+    ],
+    "requires": "|Remix 4| OR |Game Pack 4 Key|"
+  },
+  {
+    "name": "Remix 4 - Blindfolded",
+    "region": "Remix 4",
+    "category": [
+      "Remix 4",
+      "Blindfolded"
+    ],
+    "requires": "|Remix 4| OR |Game Pack 4 Key|"
+  },
+  {
+    "name": "Catch of the Day - Try Again...",
+    "region": "Remix 5",
+    "category": [
+      "Remix 5"
+    ],
+    "requires": "|Catch of the Day| OR |Game Pack 5 Key|"
+  },
+  {
+    "name": "Catch of the Day - Just... OK",
+    "region": "Remix 5",
+    "category": [
+      "Remix 5"
+    ],
+    "requires": "|Catch of the Day| OR |Game Pack 5 Key|"
+  },
+  {
+    "name": "Catch of the Day - Superb!",
+    "region": "Remix 5",
+    "category": [
+      "Remix 5"
+    ],
+    "requires": "|Catch of the Day| OR |Game Pack 5 Key|"
+  },
+  {
+    "region": "Remix 5",
+    "name": "Catch of the Day - Perfect!",
+    "category": [
+      "Remix 5",
+      "Perfects"
+    ],
+    "requires": "|Catch of the Day| OR |Game Pack 5 Key|"
+  },
+  {
+    "region": "Remix 5",
+    "name": "Catch of the Day - Blindfolded",
+    "category": [
+      "Remix 5",
+      "Blindfolded"
+    ],
+    "requires": "|Catch of the Day| OR |Game Pack 5 Key|"
+  },
+  {
+    "name": "Flipper-Flop - Try Again...",
+    "region": "Remix 5",
+    "category": [
+      "Remix 5"
+    ],
+    "requires": "|Flipper-Flop| OR |Game Pack 5 Key|"
+  },
+  {
+    "name": "Flipper-Flop - Just... OK",
+    "region": "Remix 5",
+    "category": [
+      "Remix 5"
+    ],
+    "requires": "|Flipper-Flop| OR |Game Pack 5 Key|"
+  },
+  {
+    "name": "Flipper-Flop - Superb!",
+    "region": "Remix 5",
+    "category": [
+      "Remix 5"
+    ],
+    "requires": "|Flipper-Flop| OR |Game Pack 5 Key|"
+  },
+  {
+    "name": "Flipper-Flop - Perfect!",
+    "region": "Remix 5",
+    "category": [
+      "Remix 5",
+      "Perfects"
+    ],
+    "requires": "|Flipper-Flop| OR |Game Pack 5 Key|"
+  },
+  {
+    "name": "Flipper-Flop - Blindfolded",
+    "region": "Remix 1",
+    "category": [
+      "Remix 5",
+      "Blindfolded"
+    ],
+    "requires": "|Flipper-Flop| OR |Game Pack 5 Key|"
+  },
+  {
+    "name": "Exhibition Match - Try Again...",
+    "region": "Remix 5",
+    "category": [
+      "Remix 5"
+    ],
+    "requires": "|Exhibition Match| OR |Game Pack 5 Key|"
+  },
+  {
+    "name": "Exhibition Match - Just... OK",
+    "region": "Remix 5",
+    "category": [
+      "Remix 5"
+    ],
+    "requires": "|Exhibition Match| OR |Game Pack 5 Key|"
+  },
+  {
+    "name": "Exhibition Match - Superb!",
+    "region": "Remix 5",
+    "category": [
+      "Remix 5"
+    ],
+    "requires": "|Exhibition Match| OR |Game Pack 5 Key|"
+  },
+  {
+    "name": "Exhibition Match - Perfect!",
+    "region": "Remix 5",
+    "category": [
+      "Remix 5",
+      "Perfects"
+    ],
+    "requires": "|Exhibition Match| OR |Game Pack 5 Key|"
+  },
+  {
+    "name": "Exhibition Match - Blindfolded",
+    "region": "Remix 5",
+    "category": [
+      "Remix 5",
+      "Blindfolded"
+    ],
+    "requires": "|Exhibition Match| OR |Game Pack 5 Key|"
+  },
+  {
+    "name": "Flock Step - Try Again...",
+    "region": "Remix 5",
+    "category": [
+      "Remix 5"
+    ],
+    "requires": "|Flock Step| OR |Game Pack 5 Key|"
+  },
+  {
+    "name": "Flock Step - Just... OK",
+    "region": "Remix 5",
+    "category": [
+      "Remix 5"
+    ],
+    "requires": "|Flock Step| OR |Game Pack 5 Key|"
+  },
+  {
+    "name": "Flock Step - Superb!",
+    "region": "Remix 5",
+    "category": [
+      "Remix 5"
+    ],
+    "requires": "|Flock Step| OR |Game Pack 5 Key|"
+  },
+  {
+    "name": "Flock Step - Perfect!",
+    "region": "Remix 5",
+    "category": [
+      "Remix 5",
+      "Perfects"
+    ],
+    "requires": "|Flock Step| OR |Game Pack 5 Key|"
+  },
+  {
+    "name": "Flock Step - Blindfolded",
+    "region": "Remix 5",
+    "category": [
+      "Remix 5",
+      "Blindfolded"
+    ],
+    "requires": "|Flock Step| OR |Game Pack 5 Key|"
+  },
+  {
+    "name": "Remix 5 - Try Again...",
+    "region": "Remix 5",
+    "category": [
+      "Remix 5"
+    ],
+    "requires": "|Remix 5| OR |Game Pack 5 Key|"
+  },
+  {
+    "name": "Remix 5 - Just... OK",
+    "region": "Remix 5",
+    "category": [
+      "Remix 5"
+    ],
+    "requires": "|Remix 5| OR |Game Pack 5 Key|"
+  },
+  {
+    "name": "Remix 5 - Superb!",
+    "region": "Remix 5",
+    "category": [
+      "Remix 5"
+    ],
+    "requires": "|Remix 5| OR |Game Pack 5 Key|"
+  },
+  {
+    "name": "Remix 5 - Perfect!",
+    "region": "Remix 5",
+    "category": [
+      "Remix 5",
+      "Perfects"
+    ],
+    "requires": "|Remix 5| OR |Game Pack 5 Key|"
+  },
+  {
+    "name": "Remix 5 - Blindfolded",
+    "region": "Remix 5",
+    "category": [
+      "Remix 5",
+      "Blindfolded"
+    ],
+    "requires": "|Remix 5| OR |Game Pack 5 Key|"
+  },
+  {
+    "name": "Launch Party - Try Again...",
+    "region": "Remix 6",
+    "category": [
+      "Remix 6"
+    ],
+    "requires": "|Launch Party| OR |Game Pack 6 Key|"
+  },
+  {
+    "name": "Launch Party - Just... OK",
+    "region": "Remix 6",
+    "category": [
+      "Remix 6"
+    ],
+    "requires": "|Launch Party| OR |Game Pack 6 Key|"
+  },
+  {
+    "name": "Launch Party - Superb!",
+    "region": "Remix 6",
+    "category": [
+      "Remix 6"
+    ],
+    "requires": "|Launch Party| OR |Game Pack 6 Key|"
+  },
+  {
+    "name": "Launch Party - Perfect!",
+    "region": "Remix 6",
+    "category": [
+      "Remix 6",
+      "Perfects"
+    ],
+    "requires": "|Launch Party| OR |Game Pack 6 Key|"
+  },
+  {
+    "name": "Launch Party - Blindfolded",
+    "region": "Remix 6",
+    "category": [
+      "Remix 6",
+      "Blindfolded"
+    ],
+    "requires": "|Launch Party| OR |Game Pack 6 Key|"
+  },
+  {
+    "name": "Donk-Donk - Try Again...",
+    "region": "Remix 6",
+    "category": [
+      "Remix 6"
+    ],
+    "requires": "|Donk-Donk| OR |Game Pack 6 Key|"
+  },
+  {
+    "name": "Donk-Donk - Just... OK",
+    "region": "Remix 6",
+    "category": [
+      "Remix 6"
+    ],
+    "requires": "|Donk-Donk| OR |Game Pack 6 Key|"
+  },
+  {
+    "name": "Donk-Donk - Superb!",
+    "region": "Remix 6",
+    "category": [
+      "Remix 6"
+    ],
+    "requires": "|Donk-Donk| OR |Game Pack 6 Key|"
+  },
+  {
+    "region": "Remix 6",
+    "name": "Donk-Donk - Perfect!",
+    "category": [
+      "Remix 6",
+      "Perfects"
+    ],
+    "requires": "|Donk-Donk| OR |Game Pack 6 Key|"
+  },
+  {
+    "region": "Remix 6",
+    "name": "Donk-Donk - Blindfolded",
+    "category": [
+      "Remix 6",
+      "Blindfolded"
+    ],
+    "requires": "|Donk-Donk| OR |Game Pack 6 Key|"
+  },
+  {
+    "name": "Bossa Nova - Try Again...",
+    "region": "Remix 6",
+    "category": [
+      "Remix 6"
+    ],
+    "requires": "|Bossa Nova| OR |Game Pack 6 Key|"
+  },
+  {
+    "name": "Bossa Nova - Just... OK",
+    "region": "Remix 6",
+    "category": [
+      "Remix 6"
+    ],
+    "requires": "|Bossa Nova| OR |Game Pack 6 Key|"
+  },
+  {
+    "name": "Bossa Nova - Superb!",
+    "region": "Remix 6",
+    "category": [
+      "Remix 6"
+    ],
+    "requires": "|Bossa Nova| OR |Game Pack 6 Key|"
+  },
+  {
+    "name": "Bossa Nova - Perfect!",
+    "region": "Remix 6",
+    "category": [
+      "Remix 6",
+      "Perfects"
+    ],
+    "requires": "|Bossa Nova| OR |Game Pack 6 Key|"
+  },
+  {
+    "name": "Bossa Nova - Blindfolded",
+    "region": "Remix 6",
+    "category": [
+      "Remix 6",
+      "Blindfolded"
+    ],
+    "requires": "|Bossa Nova| OR |Game Pack 6 Key|"
+  },
+  {
+    "name": "Love Rap - Try Again...",
+    "region": "Remix 6",
+    "category": [
+      "Remix 6"
+    ],
+    "requires": "|Love Rap| OR |Game Pack 6 Key|"
+  },
+  {
+    "name": "Love Rap - Just... OK",
+    "region": "Remix 6",
+    "category": [
+      "Remix 6"
+    ],
+    "requires": "|Love Rap| OR |Game Pack 6 Key|"
+  },
+  {
+    "name": "Love Rap - Superb!",
+    "region": "Remix 6",
+    "category": [
+      "Remix 6"
+    ],
+    "requires": "|Love Rap| OR |Game Pack 6 Key|"
+  },
+  {
+    "name": "Love Rap - Perfect!",
+    "region": "Remix 6",
+    "category": [
+      "Remix 6",
+      "Perfects"
+    ],
+    "requires": "|Love Rap| OR |Game Pack 6 Key|"
+  },
+  {
+    "name": "Love Rap - Blindfolded",
+    "region": "Remix 6",
+    "category": [
+      "Remix 6",
+      "Blindfolded"
+    ],
+    "requires": "|Love Rap| OR |Game Pack 6 Key|"
+  },
+  {
+    "name": "Remix 6 - Try Again...",
+    "region": "Remix 6",
+    "category": [
+      "Remix 6"
+    ],
+    "requires": "|Remix 6| OR |Game Pack 6 Key|"
+  },
+  {
+    "name": "Remix 6 - Just... OK",
+    "region": "Remix 6",
+    "category": [
+      "Remix 6"
+    ],
+    "requires": "|Remix 6| OR |Game Pack 6 Key|"
+  },
+  {
+    "name": "Remix 6 - Superb!",
+    "region": "Remix 6",
+    "category": [
+      "Remix 6"
+    ],
+    "requires": "|Remix 6| OR |Game Pack 6 Key|"
+  },
+  {
+    "name": "Remix 6 - Perfect!",
+    "region": "Remix 6",
+    "category": [
+      "Remix 6",
+      "Perfects"
+    ],
+    "requires": "|Remix 6| OR |Game Pack 6 Key|"
+  },
+  {
+    "name": "Remix 6 - Blindfolded",
+    "region": "Remix 6",
+    "category": [
+      "Remix 6",
+      "Blindfolded"
+    ],
+    "requires": "|Remix 6| OR |Game Pack 6 Key|"
+  },
+  {
+    "name": "Tap Troupe - Try Again...",
+    "region": "Remix 7",
+    "category": [
+      "Remix 7"
+    ],
+    "requires": "|Tap Troupe| OR |Game Pack 7 Key|"
+  },
+  {
+    "name": "Tap Troupe - Just... OK",
+    "region": "Remix 7",
+    "category": [
+      "Remix 7"
+    ],
+    "requires": "|Tap Troupe| OR |Game Pack 7 Key|"
+  },
+  {
+    "name": "Tap Troupe - Superb!",
+    "region": "Remix 7",
+    "category": [
+      "Remix 7"
+    ],
+    "requires": "|Tap Troupe| OR |Game Pack 7 Key|"
+  },
+  {
+    "name": "Tap Troupe - Perfect!",
+    "region": "Remix 7",
+    "category": [
+      "Remix 7",
+      "Perfects"
+    ],
+    "requires": "|Tap Troupe| OR |Game Pack 7 Key|"
+  },
+  {
+    "name": "Tap Troupe -Blindfolded",
+    "region": "Remix 7",
+    "category": [
+      "Remix 7",
+      "Blindfolded"
+    ],
+    "requires": "|Tap Troupe| OR |Game Pack 7 Key|"
+  },
+  {
+    "name": "Shrimp Shuffle - Try Again...",
+    "region": "Remix 7",
+    "category": [
+      "Remix 7"
+    ],
+    "requires": "|Shrimp Shuffle| OR |Game Pack 7 Key|"
+  },
+  {
+    "name": "Shrimp Shuffle - Just... OK",
+    "region": "Remix 7",
+    "category": [
+      "Remix 7"
+    ],
+    "requires": "|Shrimp Shuffle| OR |Game Pack 7 Key|"
+  },
+  {
+    "name": "Shrimp Shuffle - Superb!",
+    "region": "Remix 7",
+    "category": [
+      "Remix 7"
+    ],
+    "requires": "|Shrimp Shuffle| OR |Game Pack 7 Key|"
+  },
+  {
+    "name": "Shrimp Shuffle - Perfect!",
+    "region": "Remix 7",
+    "category": [
+      "Remix 7",
+      "Perfects"
+    ],
+    "requires": "|Shrimp Shuffle| OR |Game Pack 7 Key|"
+  },
+  {
+    "name": "Shrimp Shuffle - Blindfolded",
+    "region": "Remix 7",
+    "category": [
+      "Remix 7",
+      "Blindfolded"
+    ],
+    "requires": "|Shrimp Shuffle| OR |Game Pack 7 Key|"
+  },
+  {
+    "name": "Cheer Readers - Try Again...",
+    "region": "Remix 7",
+    "category": [
+      "Remix 7"
+    ],
+    "requires": "|Cheer Readers| OR |Game Pack 7 Key|"
+  },
+  {
+    "name": "Cheer Readers - Just... OK",
+    "region": "Remix 7",
+    "category": [
+      "Remix 7"
+    ],
+    "requires": "|Cheer Readers| OR |Game Pack 7 Key|"
+  },
+  {
+    "name": "Cheer Readers - Superb!",
+    "region": "Remix 7",
+    "category": [
+      "Remix 7"
+    ],
+    "requires": "|Cheer Readers| OR |Game Pack 7 Key|"
+  },
+  {
+    "name": "Cheer Readers - Perfect!",
+    "region": "Remix 7",
+    "category": [
+      "Remix 7",
+      "Perfects"
+    ],
+    "requires": "|Cheer Readers| OR |Game Pack 7 Key|"
+  },
+  {
+    "name": "Cheer Readers - Blindfolded",
+    "region": "Remix 7",
+    "category": [
+      "Remix 7",
+      "Blindfolded"
+    ],
+    "requires": "|Cheer Readers| OR |Game Pack 7 Key|"
+  },
+  {
+    "region": "Remix 7",
+    "name": "Karate Man - Try Again...",
+    "category": [
+      "Remix 7"
+    ],
+    "requires": "|Karate Man| OR |Game Pack 7 Key|"
+  },
+  {
+    "region": "Remix 7",
+    "name": "Karate Man - Just... OK",
+    "category": [
+      "Remix 7"
+    ],
+    "requires": "|Karate Man| OR |Game Pack 7 Key|"
+  },
+  {
+    "region": "Remix 7",
+    "name": "Karate Man - Superb!",
+    "category": [
+      "Remix 7"
+    ],
+    "requires": "|Karate Man| OR |Game Pack 7 Key|"
+  },
+  {
+    "region": "Remix 7",
+    "name": "Karate Man - Perfect!",
+    "category": [
+      "Remix 7",
+      "Perfects"
+    ],
+    "requires": "|Karate Man| OR |Game Pack 7 Key|"
+  },
+  {
+    "region": "Remix 7",
+    "name": "Karate Man - Blindfolded",
+    "category": [
+      "Remix 7",
+      "Blindfolded"
+    ],
+    "requires": "|Karate Man| OR |Game Pack 7 Key|"
+  },
+  {
+    "region": "Remix 7",
+    "name": "Remix 7 - Try Again...",
+    "category": [
+      "Remix 7"
+    ],
+    "requires": "|Remix 7| OR |Game Pack 7 Key|"
+  },
+  {
+    "region": "Remix 7",
+    "name": "Remix 7 - Just... OK",
+    "category": [
+      "Remix 7"
+    ],
+    "requires": "|Remix 7| OR |Game Pack 7 Key|"
+  },
+  {
+    "region": "Remix 7",
+    "name": "Remix 7 - Superb!",
+    "category": [
+      "Remix 7"
+    ],
+    "requires": "|Remix 7| OR |Game Pack 7 Key|"
+  },
+  {
+    "region": "Remix 7",
+    "name": "Remix 7 - Perfect!",
+    "category": [
+      "Remix 7",
+      "Perfects"
+    ],
+    "requires": "|Remix 7| OR |Game Pack 7 Key|"
+  },
+  {
+    "region": "Remix 7",
+    "name": "Remix 7 - Blindfolded",
+    "category": [
+      "Remix 7",
+      "Blindfolded"
+    ],
+    "requires": "|Remix 7| OR |Game Pack 7 Key|"
+  },
+  {
+    "name": "Samurai Slice 2 - Try Again...",
+    "region": "Remix 8",
+    "category": [
+      "Remix 8"
+    ],
+    "requires": "|Samurai Slice 2| OR |Game Pack 8 Key|"
+  },
+  {
+    "name": "Samurai Slice 2 - Just... OK",
+    "region": "Remix 8",
+    "category": [
+      "Remix 8"
+    ],
+    "requires": "|Samurai Slice 2| OR |Game Pack 8 Key|"
+  },
+  {
+    "name": "Samurai Slice 2 - Superb!",
+    "region": "Remix 8",
+    "category": [
+      "Remix 8"
+    ],
+    "requires": "|Samurai Slice 2| OR |Game Pack 8 Key|"
+  },
+  {
+    "name": "Samurai Slice 2 - Perfect!",
+    "region": "Remix 8",
+    "category": [
+      "Remix 8",
+      "Perfects"
+    ],
+    "requires": "|Samurai Slice 2| OR |Game Pack 8 Key|"
+  },
+  {
+    "name": "Samurai Slice 2 - Blindfolded",
+    "region": "Remix 8",
+    "category": [
+      "Remix 8",
+      "Blindfolded"
+    ],
+    "requires": "|Samurai Slice 2| OR |Game Pack 8 Key|"
+  },
+  {
+    "name": "Working Dough 2 - Try Again...",
+    "region": "Remix 8",
+    "category": [
+      "Remix 8"
+    ],
+    "requires": "|Working Dough 2| OR |Game Pack 8 Key|"
+  },
+  {
+    "name": "Working Dough 2 - Just... OK",
+    "region": "Remix 8",
+    "category": [
+      "Remix 8"
+    ],
+    "requires": "|Working Dough 2| OR |Game Pack 8 Key|"
+  },
+  {
+    "name": "Working Dough 2 - Superb!",
+    "region": "Remix 8",
+    "category": [
+      "Remix 8"
+    ],
+    "requires": "|Working Dough 2| OR |Game Pack 8 Key|"
+  },
+  {
+    "name": "Working Dough 2 - Perfect!",
+    "region": "Remix 8",
+    "category": [
+      "Remix 8",
+      "Perfects"
+    ],
+    "requires": "|Working Dough 2| OR |Game Pack 8 Key|"
+  },
+  {
+    "name": "Working Dough 2 - Blindfolded",
+    "region": "Remix 8",
+    "category": [
+      "Remix 8",
+      "Blindfolded"
+    ],
+    "requires": "|Working Dough 2| OR |Game Pack 8 Key|"
+  },
+  {
+    "name": "Built to Scale 2 - Try Again...",
+    "region": "Remix 8",
+    "category": [
+      "Remix 8"
+    ],
+    "requires": "|Built to Scale 2| OR |Game Pack 8 Key|"
+  },
+  {
+    "name": "Built to Scale 2 - Just... OK",
+    "region": "Remix 8",
+    "category": [
+      "Remix 8"
+    ],
+    "requires": "|Built to Scale 2| OR |Game Pack 8 Key|"
+  },
+  {
+    "name": "Built to Scale 2 - Superb!",
+    "region": "Remix 8",
+    "category": [
+      "Remix 8"
+    ],
+    "requires": "|Built to Scale 2| OR |Game Pack 8 Key|"
+  },
+  {
+    "name": "Built to Scale 2 - Perfect!",
+    "region": "Remix 8",
+    "category": [
+      "Remix 8",
+      "Perfects"
+    ],
+    "requires": "|Built to Scale 2| OR |Game Pack 8 Key|"
+  },
+  {
+    "name": "Built to Scale 2 - Blindfolded",
+    "region": "Remix 8",
+    "category": [
+      "Remix 8",
+      "Blindfolded"
+    ],
+    "requires": "|Built to Scale 2| OR |Game Pack 8 Key|"
+  },
+  {
+    "region": "Remix 8",
+    "name": "Double Date 2 - Try Again...",
+    "category": [
+      "Remix 8"
+    ],
+    "requires": "|Double Date 2| OR |Game Pack 8 Key|"
+  },
+  {
+    "region": "Remix 8",
+    "name": "Double Date 2 - Just... OK",
+    "category": [
+      "Remix 8"
+    ],
+    "requires": "|Double Date 2| OR |Game Pack 8 Key|"
+  },
+  {
+    "region": "Remix 8",
+    "name": "Double Date 2 - Superb!",
+    "category": [
+      "Remix 8"
+    ],
+    "requires": "|Double Date 2| OR |Game Pack 8 Key|"
+  },
+  {
+    "region": "Remix 8",
+    "name": "Double Date 2 - Perfect!",
+    "category": [
+      "Remix 8",
+      "Perfects"
+    ],
+    "requires": "|Double Date 2| OR |Game Pack 8 Key|"
+  },
+  {
+    "region": "Remix 8",
+    "name": "Double Date 2 - Blindfolded",
+    "category": [
+      "Remix 8",
+      "Blindfolded"
+    ],
+    "requires": "|Double Date 2| OR |Game Pack 8 Key|"
+  },
+  {
+    "name": "Remix 8 - Try Again...",
+    "region": "Remix 8",
+    "category": [
+      "Remix 8"
+    ],
+    "requires": "|Remix 8| OR |Game Pack 8 Key|"
+  },
+  {
+    "name": "Remix 8 - Just... OK",
+    "region": "Remix 8",
+    "category": [
+      "Remix 8"
+    ],
+    "requires": "|Remix 8| OR |Game Pack 8 Key|"
+  },
+  {
+    "name": "Remix 8 - Superb!",
+    "region": "Remix 8",
+    "category": [
+      "Remix 8"
+    ],
+    "requires": "|Remix 8| OR |Game Pack 8 Key|"
+  },
+  {
+    "name": "Remix 8 - Perfect!",
+    "region": "Remix 8",
+    "category": [
+      "Remix 8",
+      "Perfects"
+    ],
+    "requires": "|Remix 8| OR |Game Pack 8 Key|"
+  },
+  {
+    "name": "Remix 8 - Blindfolded",
+    "region": "Remix 8",
+    "category": [
+      "Remix 8",
+      "Blindfolded"
+    ],
+    "requires": "|Remix 8| OR |Game Pack 8 Key|"
+  },
+  {
+    "name": "Love Rap 2 - Try Again...",
+    "region": "Remix 9",
+    "category": [
+      "Remix 9"
+    ],
+    "requires": "|Love Rap 2| OR |Game Pack 9 Key|"
+  },
+  {
+    "name": "Love Rap 2 - Just... OK",
+    "region": "Remix 9",
+    "category": [
+      "Remix 9"
+    ],
+    "requires": "|Love Rap 2| OR |Game Pack 9 Key|"
+  },
+  {
+    "name": "Love Rap 2 - Superb!",
+    "region": "Remix 9",
+    "category": [
+      "Remix 9"
+    ],
+    "requires": "|Love Rap 2| OR |Game Pack 9 Key|"
+  },
+  {
+    "name": "Love Rap 2 - Perfect!",
+    "region": "Remix 9",
+    "category": [
+      "Remix 9",
+      "Perfects"
+    ],
+    "requires": "|Love Rap 2| OR |Game Pack 9 Key|"
+  },
+  {
+    "name": "Love Rap 2 - Blindfolded",
+    "region": "Remix 9",
+    "category": [
+      "Remix 9",
+      "Blindfolded"
+    ],
+    "requires": "|Love Rap 2| OR |Game Pack 9 Key|"
+  },
+  {
+    "name": "Cheer Readers 2 - Try Again...",
+    "region": "Remix 9",
+    "category": [
+      "Remix 9"
+    ],
+    "requires": "|Cheer Readers 2| OR |Game Pack 9 Key|"
+  },
+  {
+    "name": "Cheer Readers 2 - Just... OK",
+    "region": "Remix 9",
+    "category": [
+      "Remix 9"
+    ],
+    "requires": "|Cheer Readers 2| OR |Game Pack 9 Key|"
+  },
+  {
+    "name": "Cheer Readers 2 - Superb!",
+    "region": "Remix 9",
+    "category": [
+      "Remix 9"
+    ],
+    "requires": "|Cheer Readers 2| OR |Game Pack 9 Key|"
+  },
+  {
+    "name": "Cheer Readers 2 - Perfect!",
+    "region": "Remix 9",
+    "category": [
+      "Remix 9",
+      "Perfects"
+    ],
+    "requires": "|Cheer Readers 2| OR |Game Pack 9 Key|"
+  },
+  {
+    "name": "Cheer Readers 2 - Blindfolded",
+    "region": "Remix 9",
+    "category": [
+      "Remix 9",
+      "Blindfolded"
+    ],
+    "requires": "|Cheer Readers 2| OR |Game Pack 9 Key|"
+  },
+  {
+    "name": "Hole in One 2 - Try Again...",
+    "region": "Remix 9",
+    "category": [
+      "Remix 9"
+    ],
+    "requires": "|Hole in One 2| OR |Game Pack 9 Key|"
+  },
+  {
+    "name": "Hole in One 2 - Just... OK",
+    "region": "Remix 9",
+    "category": [
+      "Remix 9"
+    ],
+    "requires": "|Hole in One 2| OR |Game Pack 9 Key|"
+  },
+  {
+    "name": "Hole in One 2 - Superb!",
+    "region": "Remix 9",
+    "category": [
+      "Remix 9"
+    ],
+    "requires": "|Hole in One 2| OR |Game Pack 9 Key|"
+  },
+  {
+    "name": "Hole in One 2 - Perfect!",
+    "region": "Remix 9",
+    "category": [
+      "Remix 9",
+      "Perfects"
+    ],
+    "requires": "|Hole in One 2| OR |Game Pack 9 Key|"
+  },
+  {
+    "name": "Hole in One 2 - Blindfolded",
+    "region": "Remix 9",
+    "category": [
+      "Remix 9",
+      "Blindfolded"
+    ],
+    "requires": "|Hole in One 2| OR |Game Pack 9 Key|"
+  },
+  {
+    "name": "Screwbot Factory 2 - Try Again...",
+    "region": "Remix 9",
+    "category": [
+      "Remix 9"
+    ],
+    "requires": "|Screwbot Factory 2| OR |Game Pack 9 Key|"
+  },
+  {
+    "name": "Screwbot Factory 2 - Just... OK",
+    "region": "Remix 9",
+    "category": [
+      "Remix 9"
+    ],
+    "requires": "|Screwbot Factory 2| OR |Game Pack 9 Key|"
+  },
+  {
+    "name": "Screwbot Factory 2 - Superb!",
+    "region": "Remix 9",
+    "category": [
+      "Remix 9"
+    ],
+    "requires": "|Screwbot Factory 2| OR |Game Pack 9 Key|"
+  },
+  {
+    "name": "Screwbot Factory 2 - Perfect!",
+    "region": "Remix 9",
+    "category": [
+      "Remix 9",
+      "Perfects"
+    ],
+    "requires": "|Screwbot Factory 2| OR |Game Pack 9 Key|"
+  },
+  {
+    "name": "Screwbot Factory 2 - Blindfolded",
+    "region": "Remix 9",
+    "category": [
+      "Remix 9",
+      "Blindfolded"
+    ],
+    "requires": "|Screwbot Factory 2| OR |Game Pack 9 Key|"
+  },
+  {
+    "name": "Remix 9 - Try Again...",
+    "region": "Remix 9",
+    "category": [
+      "Remix 9"
+    ],
+    "requires": "|Remix 9| OR |Game Pack 9 Key|"
+  },
+  {
+    "name": "Remix 9 - Just... OK",
+    "region": "Remix 9",
+    "category": [
+      "Remix 9"
+    ],
+    "requires": "|Remix 9| OR |Game Pack 9 Key|"
+  },
+  {
+    "name": "Remix 9 - Superb!",
+    "region": "Remix 9",
+    "category": [
+      "Remix 9"
+    ],
+    "requires": "|Remix 9| OR |Game Pack 9 Key|"
+  },
+  {
+    "name": "Remix 9 - Perfect!",
+    "region": "Remix 9",
+    "category": [
+      "Remix 9",
+      "Perfects"
+    ],
+    "requires": "|Remix 9| OR |Game Pack 9 Key|"
+  },
+  {
+    "name": "Remix 9 - Blindfolded",
+    "region": "Remix 9",
+    "category": [
+      "Remix 9",
+      "Blindfolded"
+    ],
+    "requires": "|Remix 9| OR |Game Pack 9 Key|"
+  },
+  {
+    "name": "Figure Fighter 2 - Try Again...",
+    "region": "Remix 10",
+    "category": [
+      "Remix 10"
+    ],
+    "requires": "|Figure Fighter 2| OR |Game Pack 10 Key|"
+  },
+  {
+    "name": "Figure Fighter 2 - Just... OK",
+    "region": "Remix 10",
+    "category": [
+      "Remix 10"
+    ],
+    "requires": "|Figure Fighter 2| OR |Game Pack 10 Key|"
+  },
+  {
+    "name": "Figure Fighter 2 - Superb!",
+    "region": "Remix 10",
+    "category": [
+      "Remix 10"
+    ],
+    "requires": "|Figure Fighter 2| OR |Game Pack 10 Key|"
+  },
+  {
+    "name": "Figure Fighter 2 - Perfect!",
+    "region": "Remix 10",
+    "category": [
+      "Remix 10",
+      "Perfects"
+    ],
+    "requires": "|Figure Fighter 2| OR |Game Pack 10 Key|"
+  },
+  {
+    "region": "Remix 10",
+    "name": "Figure Fighter 2 - Blindfolded",
+    "category": [
+      "Remix 10",
+      "Blindfolded"
+    ],
+    "requires": "|Figure Fighter 2| OR |Game Pack 10 Key|"
+  },
+  {
+    "region": "Remix 10",
+    "name": "Micro-Row 2 - Try Again...",
+    "category": [
+      "Remix 10"
+    ],
+    "requires": "|Micro-Row 2| OR |Game Pack 10 Key|"
+  },
+  {
+    "region": "Remix 10",
+    "name": "Micro-Row 2 - Just... OK",
+    "category": [
+      "Remix 10"
+    ],
+    "requires": "|Micro-Row 2| OR |Game Pack 10 Key|"
+  },
+  {
+    "region": "Remix 10",
+    "name": "Micro-Row 2 - Superb!",
+    "category": [
+      "Remix 10"
+    ],
+    "requires": "|Micro-Row 2| OR |Game Pack 10 Key|"
+  },
+  {
+    "region": "Remix 10",
+    "name": "Micro-Row 2 - Perfect!",
+    "category": [
+      "Remix 10",
+      "Perfects"
+    ],
+    "requires": "|Micro-Row 2| OR |Game Pack 10 Key|"
+  },
+  {
+    "region": "Remix 10",
+    "name": "Micro-Row 2 - Blindfolded",
+    "category": [
+      "Remix 10",
+      "Blindfolded"
+    ],
+    "requires": "|Micro-Row 2| OR |Game Pack 10 Key|"
+  },
+  {
+    "name": "Packing Pests 2 - Try Again...",
+    "region": "Remix 10",
+    "category": [
+      "Remix 10"
+    ],
+    "requires": "|Packing Pests 2| OR |Game Pack 10 Key|"
+  },
+  {
+    "name": "Packing Pests 2 - Just... OK",
+    "region": "Remix 10",
+    "category": [
+      "Remix 10"
+    ],
+    "requires": "|Packing Pests 2| OR |Game Pack 10 Key|"
+  },
+  {
+    "name": "Packing Pests 2 - Superb!",
+    "region": "Remix 10",
+    "category": [
+      "Remix 10"
+    ],
+    "requires": "|Packing Pests 2| OR |Game Pack 10 Key|"
+  },
+  {
+    "region": "Remix 10",
+    "name": "Packing Pests 2 - Perfect!",
+    "category": [
+      "Remix 10",
+      "Perfects"
+    ],
+    "requires": "|Packing Pests 2| OR |Game Pack 10 Key|"
+  },
+  {
+    "region": "Remix 10",
+    "name": "Packing Pests 2 - Blindfolded",
+    "category": [
+      "Remix 10",
+      "Blindfolded"
+    ],
+    "requires": "|Packing Pests 2| OR |Game Pack 10 Key|"
+  },
+  {
+    "name": "Karate Man 2 - Try Again...",
+    "region": "Remix 10",
+    "category": [
+      "Remix 10"
+    ],
+    "requires": "|Karate Man 2| OR |Game Pack 10 Key|"
+  },
+  {
+    "name": "Karate Man 2 - Just... OK",
+    "region": "Remix 10",
+    "category": [
+      "Remix 10"
+    ],
+    "requires": "|Karate Man 2| OR |Game Pack 10 Key|"
+  },
+  {
+    "name": "Karate Man 2 - Superb!",
+    "region": "Remix 10",
+    "category": [
+      "Remix 10"
+    ],
+    "requires": "|Karate Man 2| OR |Game Pack 10 Key|"
+  },
+  {
+    "name": "Karate Man 2 - Perfect!",
+    "region": "Remix 10",
+    "category": [
+      "Remix 10",
+      "Perfects"
+    ],
+    "requires": "|Karate Man 2| OR |Game Pack 10 Key|"
+  },
+  {
+    "region": "Remix 10",
+    "name": "Karate Man 2 - Blindfolded",
+    "category": [
+      "Remix 10",
+      "Blindfolded"
+    ],
+    "requires": "|Karate Man 2| OR |Game Pack 10 Key|"
+  },
+  {
+    "victory": true,
+    "name": "Remix 10 - Superb!",
+    "region": "Remix 10",
+    "category": [
+      "GOAL"
+    ],
+    "requires": "|Superb!:40|"
+  }
+]

@@ -1,0 +1,20 @@
+{
+"Superbs": {
+    "hidden": true
+},
+"Perfects": {
+        "hidden": true,
+        "yaml_option": ["perfects"]
+    },
+"Blindfolded": {
+        "hidden": true,
+        "yaml_option": ["blindfolded"]
+    },
+"Keys": {
+        "yaml_option": ["!individual_songs"]
+    },
+"Songs": {
+        "yaml_option": ["individual_songs"]
+    }
+
+}
