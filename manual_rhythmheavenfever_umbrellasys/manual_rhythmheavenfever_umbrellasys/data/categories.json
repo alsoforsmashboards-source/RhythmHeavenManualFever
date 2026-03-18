@@ -18,6 +18,9 @@
     },
 "Songs": {
         "yaml_option": ["individual_songs"]
+    },
+"Endless": {
+        "yaml_option": ["endless"]
     }
 
 }
