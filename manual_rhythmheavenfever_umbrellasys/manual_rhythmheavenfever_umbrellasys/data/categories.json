@@ -2,6 +2,9 @@
 "Superbs": {
     "hidden": true
 },
+"Start": {
+    "hidden": true
+},
 "Perfects": {
         "hidden": true,
         "yaml_option": ["perfects"]
