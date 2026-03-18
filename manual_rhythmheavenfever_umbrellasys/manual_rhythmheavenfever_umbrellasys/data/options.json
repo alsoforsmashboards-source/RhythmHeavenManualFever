@@ -43,10 +43,6 @@
             "type": "Toggle",
             "default": false,
             "group": "Example Options"
-             },
-            "default": 0,
-            "allow_custom_value": false,
-            "group": "Options"
         },
         "blindfolded":{
             "description": [
