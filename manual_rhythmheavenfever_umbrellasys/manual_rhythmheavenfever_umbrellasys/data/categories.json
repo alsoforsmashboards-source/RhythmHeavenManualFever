@@ -19,11 +19,11 @@
 "Songs": {
         "yaml_option": ["individual_songs"]
     },
-"Endless Games": {
-        "yaml_option": ["endless"]
-    },
 "Extra Games": {
         "yaml_option": ["extra"]
+    },
+"Endless Games": {
+        "yaml_option": ["endless"]
     }
 
 }
