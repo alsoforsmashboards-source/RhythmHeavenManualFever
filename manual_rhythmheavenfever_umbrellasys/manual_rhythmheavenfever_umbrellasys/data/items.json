@@ -527,6 +527,16 @@
   },
   {
     "count": 1,
+    "name": "Night Walk",
+    "category": [
+      "Extra Games",
+      "Songs",
+      "Start"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Game Pack 1 Key",
     "category": [
       "Keys",
