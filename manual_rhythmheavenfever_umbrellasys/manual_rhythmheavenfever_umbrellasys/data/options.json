@@ -42,7 +42,7 @@
             ],
             "type": "Toggle",
             "default": false,
-            "group": "Example Options"
+            "group": "Options"
         },
         "blindfolded":{
             "description": [
@@ -53,10 +53,19 @@
             "default": false,
             "group": "Options"
         },
+        "extra":{
+            "description": [
+                "Adds the four extra games into the pool",
+                ""
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Options"
+        },
         "endless":{
             "description": [
                 "Adds in the endless games as locations",
-                "You must hit a minimum score for each game to send the check"
+                "Each endless game has three scores to reach for checks"
             ],
             "type": "Toggle",
             "default": false,
