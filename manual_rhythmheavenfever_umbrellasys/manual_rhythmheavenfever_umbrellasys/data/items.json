@@ -444,9 +444,8 @@
     "count": 1,
     "name": "Mr. Upbeat",
     "category": [
-      "Endless",
-      "Songs",
-      "Start"
+      "Endless Games",
+      "Songs"
     ],
     "progression": true
   },
@@ -454,9 +453,8 @@
     "count": 1,
     "name": "Wake Up Caller",
     "category": [
-      "Endless",
-      "Songs",
-      "Start"
+      "Endless Games",
+      "Songs"
     ],
     "progression": true
   },
@@ -464,9 +462,8 @@
     "count": 1,
     "name": "Munchy Monk",
     "category": [
-      "Endless",
-      "Songs",
-      "Start"
+      "Endless Games",
+      "Songs"
     ],
     "progression": true
   },
@@ -474,9 +471,8 @@
     "count": 1,
     "name": "Lady Cupid",
     "category": [
-      "Endless",
-      "Songs",
-      "Start"
+      "Endless Games",
+      "Songs"
     ],
     "progression": true
   },
@@ -484,7 +480,46 @@
     "count": 1,
     "name": "Endless Remix",
     "category": [
-      "Endless",
+      "Endless Games",
+      "Songs"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Clappy Trio",
+    "category": [
+      "Extra Games",
+      "Songs",
+      "Start"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sneaky Spirits",
+    "category": [
+      "Extra Games",
+      "Songs",
+      "Start"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Power Calligraphy",
+    "category": [
+      "Extra Games",
+      "Songs",
+      "Start"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tap Trial",
+    "category": [
+      "Extra Games",
       "Songs",
       "Start"
     ],
@@ -585,7 +620,17 @@
     "name": "Endless Games Key",
     "category": [
       "Keys",
-      "Endless",
+      "Endless Games",
+      "Start"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Extra Games Key",
+    "category": [
+      "Keys",
+      "Extra Games",
       "Start"
     ],
     "progression": true
