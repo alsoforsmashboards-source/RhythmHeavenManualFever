@@ -42,5 +42,9 @@
   "Endless Games": {
     "connects_to": [],
     "requires": ""
+  },
+  "Extra Games": {
+    "connects_to": [],
+    "requires": ""
   }
 }
