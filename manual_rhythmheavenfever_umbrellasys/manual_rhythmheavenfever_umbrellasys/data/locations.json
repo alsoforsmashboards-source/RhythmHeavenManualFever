@@ -2118,9 +2118,25 @@
   },
   {
     "region": "Endless Games",
-    "name": "Mr. Upbeat - 192 points",
+    "name": "Mr. Upbeat - 96 points",
     "category": [
-      "Endless"
+      "Endless Games"
+    ],
+    "requires": "|Mr. Upbeat| OR |Endless Games Key|"
+  },
+  {
+    "region": "Endless Games",
+    "name": "Mr. Upbeat - 160 points",
+    "category": [
+      "Endless Games"
+    ],
+    "requires": "|Mr. Upbeat| OR |Endless Games Key|"
+  },
+  {
+    "region": "Endless Games",
+    "name": "Mr. Upbeat - 224 points",
+    "category": [
+      "Endless Games"
     ],
     "requires": "|Mr. Upbeat| OR |Endless Games Key|"
   },
@@ -2128,33 +2144,262 @@
     "region": "Endless Games",
     "name": "Wake Up Caller - 5 points",
     "category": [
-      "Endless"
+      "Endless Games"
     ],
     "requires": "|Wake Up Caller| OR |Endless Games Key|"
   },
   {
     "region": "Endless Games",
-    "name": "Munchy Monk - 200 points",
+    "name": "Wake Up Caller - 10 points",
     "category": [
-      "Endless"
+      "Endless Games"
+    ],
+    "requires": "|Wake Up Caller| OR |Endless Games Key|"
+  },
+  {
+    "region": "Endless Games",
+    "name": "Wake Up Caller - 15 points",
+    "category": [
+      "Endless Games"
+    ],
+    "requires": "|Wake Up Caller| OR |Endless Games Key|"
+  },
+  {
+    "region": "Endless Games",
+    "name": "Munchy Monk - 150 points",
+    "category": [
+      "Endless Games"
     ],
     "requires": "|Munchy Monk| OR |Endless Games Key|"
   },
   {
     "region": "Endless Games",
-    "name": "Lady Cupid - 30,000 points",
+    "name": "Munchy Monk - 300 points",
     "category": [
-      "Endless"
+      "Endless Games"
+    ],
+    "requires": "|Munchy Monk| OR |Endless Games Key|"
+  },
+  {
+    "region": "Endless Games",
+    "name": "Munchy Monk - 400 points",
+    "category": [
+      "Endless Games"
+    ],
+    "requires": "|Munchy Monk| OR |Endless Games Key|"
+  },
+  {
+    "region": "Endless Games",
+    "name": "Lady Cupid - 15,000 points",
+    "category": [
+      "Endless Games"
     ],
     "requires": "|Lady Cupid| OR |Endless Games Key|"
   },
   {
     "region": "Endless Games",
-    "name": "Endless Remix - 150 points",
+    "name": "Lady Cupid - 25,000 points",
     "category": [
-      "Endless"
+      "Endless Games"
+    ],
+    "requires": "|Lady Cupid| OR |Endless Games Key|"
+  },
+  {
+    "region": "Endless Games",
+    "name": "Lady Cupid - 40,000 points",
+    "category": [
+      "Endless Games"
+    ],
+    "requires": "|Lady Cupid| OR |Endless Games Key|"
+  },
+  {
+    "region": "Endless Games",
+    "name": "Endless Remix - 75 points",
+    "category": [
+      "Endless Games"
     ],
     "requires": "|Endless Remix| OR |Endless Games Key|"
+  },
+  {
+    "region": "Endless Games",
+    "name": "Endless Remix - 125 points",
+    "category": [
+      "Endless Games"
+    ],
+    "requires": "|Endless Remix| OR |Endless Games Key|"
+  },
+  {
+    "region": "Endless Games",
+    "name": "Endless Remix - 175 points",
+    "category": [
+      "Endless Games"
+    ],
+    "requires": "|Endless Remix| OR |Endless Games Key|"
+  },
+  {
+    "region": "Extra Games",
+    "name": "The Clappy Trio - Try Again...",
+    "category": [
+      "Extra Games"
+    ],
+    "requires": "|The Clappy Trio| OR |Extra Games Key|"
+  },
+  {
+    "region": "Extra Games",
+    "name": "The Clappy Trio - Just... OK",
+    "category": [
+      "Extra Games"
+    ],
+    "requires": "|The Clappy Trio| OR |Extra Games Key|"
+  },
+  {
+    "region": "Extra Games",
+    "name": "The Clappy Trio - Superb!",
+    "category": [
+      "Extra Games"
+    ],
+    "requires": "|The Clappy Trio| OR |Extra Games Key|"
+  },
+  {
+    "region": "Extra Games",
+    "name": "The Clappy Trio - Blindfolded",
+    "category": [
+      "Extra Games"
+      "Blindfolded"
+    ],
+    "requires": "|The Clappy Trio| OR |Extra Games Key|"
+  },
+  {
+    "region": "Extra Games",
+    "name": "Sneaky Spirits - Try Again...",
+    "category": [
+      "Extra Games"
+    ],
+    "requires": "|Sneaky Spirits| OR |Extra Games Key|"
+  },
+  {
+    "region": "Extra Games",
+    "name": "Sneaky Spirits - Just... OK",
+    "category": [
+      "Extra Games"
+    ],
+    "requires": "|Sneaky Spirits| OR |Extra Games Key|"
+  },
+  {
+    "region": "Extra Games",
+    "name": "Sneaky Spirits - Superb!",
+    "category": [
+      "Extra Games"
+    ],
+    "requires": "|Sneaky Spirits| OR |Extra Games Key|"
+  },
+  {
+    "region": "Extra Games",
+    "name": "Sneaky Spirits - Blindfolded",
+    "category": [
+      "Extra Games"
+      "Blindfolded"
+    ],
+    "requires": "|Sneaky Spirits| OR |Extra Games Key|"
+  },
+  {
+    "region": "Extra Games",
+    "name": "Power Calligraphy - Try Again...",
+    "category": [
+      "Extra Games"
+    ],
+    "requires": "|Power Calligraphy| OR |Extra Games Key|"
+  },
+  {
+    "region": "Extra Games",
+    "name": "Power Calligraphy - Just... OK",
+    "category": [
+      "Extra Games"
+    ],
+    "requires": "|Power Calligraphy| OR |Extra Games Key|"
+  },
+  {
+    "region": "Extra Games",
+    "name": "Power Calligraphy - Superb!",
+    "category": [
+      "Extra Games"
+    ],
+    "requires": "|Power Calligraphy| OR |Extra Games Key|"
+  },
+  {
+    "region": "Extra Games",
+    "name": "Power Calligraphy - Blindfolded",
+    "category": [
+      "Extra Games"
+      "Blindfolded"
+    ],
+    "requires": "|Power Calligraphy| OR |Extra Games Key|"
+  },
+  {
+    "region": "Extra Games",
+    "name": "Tap Trial - Try Again...",
+    "category": [
+      "Extra Games"
+    ],
+    "requires": "|Tap Trial| OR |Extra Games Key|"
+  },
+  {
+    "region": "Extra Games",
+    "name": "Tap Trial - Just... OK",
+    "category": [
+      "Extra Games"
+    ],
+    "requires": "|Tap Trial| OR |Extra Games Key|"
+  },
+  {
+    "region": "Extra Games",
+    "name": "Tap Trial - Superb!",
+    "category": [
+      "Extra Games"
+    ],
+    "requires": "|Tap Trial| OR |Extra Games Key|"
+  },
+  {
+    "region": "Extra Games",
+    "name": "Tap Trial - Blindfolded",
+    "category": [
+      "Extra Games"
+      "Blindfolded"
+    ],
+    "requires": "|Tap Trial| OR |Extra Games Key|"
+  },
+  {
+    "region": "Extra Games",
+    "name": "Night Walk - Try Again...",
+    "category": [
+      "Extra Games"
+    ],
+    "requires": "|Night Walk| OR |Extra Games Key|"
+  },
+  {
+    "region": "Extra Games",
+    "name": "Night Walk - Just... OK",
+    "category": [
+      "Extra Games"
+    ],
+    "requires": "|Night Walk| OR |Extra Games Key|"
+  },
+  {
+    "region": "Extra Games",
+    "name": "Night Walk - Superb!",
+    "category": [
+      "Extra Games"
+    ],
+    "requires": "|Night Walk| OR |Extra Games Key|"
+  },
+  {
+    "region": "Extra Games",
+    "name": "Night Walk - Blindfolded",
+    "category": [
+      "Extra Games"
+      "Blindfolded"
+    ],
+    "requires": "|Night Walk| OR |Extra Games Key|"
   },
   {
     "victory": true,
@@ -2163,6 +2408,6 @@
     "category": [
       "GOAL"
     ],
-    "requires": "|Superb!:40|"
+    "requires": "|Superb!:35|"
   }
 ]
